@@ -1,0 +1,101 @@
+# Translations template for PROJECT.
+# Copyright (C) 2021 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-06-07 00:44+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: fixtures/src/my.js:1
+msgid "plain text"
+msgstr ""
+
+#: fixtures/src/my.js:4
+msgid "in object"
+msgstr ""
+
+#: fixtures/src/my.js:5
+msgid "as object value"
+msgid_plural "plural!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: fixtures/src/my.js:8
+msgid ""
+"as a\n"
+"tagged template"
+msgstr ""
+
+#: fixtures/src/my.js:10
+msgid "quasi in template"
+msgstr ""
+
+#: fixtures/src/my.js:14
+msgid "text in func"
+msgstr ""
+
+#: fixtures/src/my.js:14
+msgid "text in para expr"
+msgstr ""
+
+#: fixtures/src/my.js:17
+msgid "text as arg"
+msgstr ""
+
+#: fixtures/src/my.js:18
+msgid "\""
+msgstr ""
+
+#: fixtures/src/my.js:18
+msgid "'"
+msgstr ""
+
+#: fixtures/src/my.js:18
+msgid "\\"
+msgstr ""
+
+#. : single line comment
+#: fixtures/src/my.js:26 fixtures/src/my.js:28
+msgid "line comment"
+msgstr ""
+
+#. : line comment
+#. continuation
+#. that only happens to line comments
+#: fixtures/src/my.js:34
+msgid "line comment 2"
+msgstr ""
+
+#. : block comment does not have continuation
+#. but can be broken into lines
+#: fixtures/src/my.js:39
+msgid "line comment 3"
+msgstr ""
+
+#. : this block comment is NOT ignored
+#. : SO IS this line comment
+#: fixtures/src/my.js:44
+msgid "block comment"
+msgstr ""
+
+#. : block comment
+#: fixtures/src/my.js:48
+msgid "block comment 2"
+msgstr ""
+
+#. : this takes precedence
+#: fixtures/src/my.js:52
+msgid "multiple block comments around"
+msgstr ""
+
